@@ -14,7 +14,7 @@
 * [Goal Gradient](/Better Structured/Animate Gradients.js)
 	
 **Stephen**
-* [Level boundaries graphics]()
+* [Level boundaries graphics](/Better Structured/Variables.js#L159-L174)
 * [Equation Assignment](/Better Structured/Equation Functions.js#L105-L121)
 * [Hud System](/Better Structured/Score.js)
 * [Score system (Allocating points for actions)](/Better Structured/Draw.js#L43-L58)
