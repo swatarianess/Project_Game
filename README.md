@@ -21,7 +21,7 @@
 	
 **Tal**
 * Hostile NPC's collisions w/ characters and boxes [ Inital Coder ]
-* [Target behaviour](/Better Structured/Collisions.js#L127-L138)
+* Target behaviour [(-1-)](/Better Structured/Collisions.js#L127-L138) && [(-2-)](/Better Structured/Move.js#L79-L83)
 * [Level Design](/Better Structured/Tal's Levels/Level Builder.js) 
 
 **Alex**
