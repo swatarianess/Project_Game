@@ -3,9 +3,9 @@
 **Marik**
 
 * Main characters
-* Boxes behaviour
+* [Boxes behaviour](/Better Structured/Bounding Box Constructor.js)
 * Level boundaries behaviour
-* Equation generation
+* [Equation generation](/Better Structured/Equation Functions.js)
 * [Platform behaviour](/Better Structured/Move.js#L172-L195)
 * [Font system](/Better Structured/Font%20Stuff.js)
 * [Scaling System](/Better Structured/Scaling.js)
