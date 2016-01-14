@@ -3,8 +3,9 @@
 **Marik**
 
 * Main character
-* [Boxes behaviour](/Better Structured/Bounding Box Constructor.js)
-* [Level boundaries behaviour](/Better Structured/Collisions.js#L8-L115) <- Check
+* [Box object](/Better Structured/Bounding Box Constructor.js)
+* [The Box behavior](/Better Structured/Move.js#L95-L113)
+* [Level boundaries behaviour](/Better Structured/Collisions.js#L8-L115)
 * [Equation generation](/Better Structured/Equation Functions.js)
 * [Platform behaviour](/Better Structured/Move.js#L172-L195)
 * [Font system](/Better Structured/Font%20Stuff.js)
