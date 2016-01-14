@@ -2,9 +2,9 @@
 
 **Marik**
 
-* Main characters
+* Main character
 * [Boxes behaviour](/Better Structured/Bounding Box Constructor.js)
-* Level boundaries behaviour
+* [Level boundaries behaviour](/Better Structured/Collisions.js#L8-L115) <- Check
 * [Equation generation](/Better Structured/Equation Functions.js)
 * [Platform behaviour](/Better Structured/Move.js#L172-L195)
 * [Font system](/Better Structured/Font%20Stuff.js)
@@ -13,10 +13,10 @@
 * [Goal Gradient](/Better Structured/Animate Gradients.js)
 	
 **Stephen**
-* Level boundaries graphics
-* Equation Assignment
-* Boxes graphics
-* Hud and Score system
+* [Level boundaries graphics](#)
+* [Equation Assignment](/Better Structured/Equation Functions.js#L105-L121)
+* [Hud System](/Better Structured/Score.js)
+* [Score system (Allocating points for actions)](/Better Structured/Draw.js#L43-L58)
 	
 **Tal**
 * Hostile NPC's collisions w/ characters and boxes [ Inital Coder ]
@@ -27,10 +27,10 @@
 * [Main character graphics](Sheet.png)
 * [Platform graphics](StuffSheet.png)
 * [Backgrounds](Background sprite vertical.png)
-* [Logo](Logo.png) [ 200 clocked man hours ]
+* [Logo](Logo.png)
 * [Power up system](/Better Structured/PowerUps.js)
 
 **Sulemen**
-* [Hostile NPC's graphics](/StuffSheet.png) <- Same sheet as Alex?
+* [Hostile NPC's graphics](/StuffSheet.png)
 * [Hostile NPC movement](/Better Structured/Move.js#L115-L170) 
 * [Title screen](/Better Structured/Titlescreen.js#L1-L53)
